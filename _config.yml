@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+img_cdn: '/assets/'
+avatar: 'images/avatar.jpg'
+
 title: 子供の人権について
 author: okmksato
 email: 

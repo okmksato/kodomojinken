@@ -2,6 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+list_title: 記事一覧
 ---
-Home
-Help
+# こどもの人権について考えましょう
+
+泉南市のいじめ問題
