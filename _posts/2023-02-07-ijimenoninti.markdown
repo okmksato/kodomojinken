@@ -36,6 +36,8 @@ categories: ijime
 
 <br />
 
+[いじめの認知について～先生方一人一人がもう一度確認してください～（PDF）](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2019/06/26/1400030_005.pdf)』において具体的に詳しく説明されています  
+
 ![いじめの認知を正確に行うことは極めて重要です。](/assets/images/2023-02-07-003.jpg)  
 
 <br />
@@ -56,8 +58,12 @@ categories: ijime
 
 <br />
 
-![具体的な事例で確認してみましょう](/assets/images/2023-02-07-004.jpg)
+![具体的な事例で確認してみましょう](/assets/images/2023-02-07-004.jpg)  
 
+<br />
+
+このような事例も『いじめ』として『認知』する必要があるという事ですから思わず『教師も大変だな』と思ってしまいました  
+それだけ深刻な状況にあると言うことなんでしょうね  
 
 
 
