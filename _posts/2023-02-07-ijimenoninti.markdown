@@ -36,8 +36,6 @@ categories: ijime
 
 <br />
 
-[いじめの認知について～先生方一人一人がもう一度確認してください～（PDF）](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2019/06/26/1400030_005.pdf)』において具体的に詳しく説明されています  
-
 ![いじめの認知を正確に行うことは極めて重要です。](/assets/images/2023-02-07-003.jpg)  
 
 <br />
