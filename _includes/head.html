@@ -5,6 +5,8 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
+
+  {% include favicons.html %}
   
 {% if page.twitter-card %}
 <meta name="twitter:card" content="{{ page.twitter-card }}"  />
