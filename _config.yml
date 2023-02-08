@@ -23,6 +23,7 @@ avatar: 'images/avatar.jpg'
 
 title: 子供の人権について
 author: okmksato
+lang: ja
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
