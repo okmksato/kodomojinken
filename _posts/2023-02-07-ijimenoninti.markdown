@@ -2,7 +2,7 @@
 layout: page
 title:  "時代とともにいじめの定義は変わってきています"
 date:   2023-02-07 12:00:00 +0900
-categories: いじめ
+categories: ijime
 ---
 # 文部科学省によるいじめの定義
 
