@@ -1,7 +1,7 @@
 ---
 layout: 
 title: 資料
-permalink: 
+permalink: /shiryo/
 ---
 
 - 文部科学省　資料
