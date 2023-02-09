@@ -26,7 +26,7 @@ permalink: /shiryo/
 
 TBS NEWS DIG 不登校過去最多、１３歳の声【報道特集】  
 
-<image alt="報道特集 不登校過去最多１３歳の声" src="/assets/images/shiryo-001.jpg width="100%>
+<image alt="報道特集 不登校過去最多１３歳の声" src="/assets/images/shiryo-001.jpg" width="100%>
 [](https://youtu.be/oEhZ-oJ9Uuo)
 
 
