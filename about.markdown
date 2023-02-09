@@ -5,7 +5,7 @@ permalink:
 ---
 
 - 文部科学省　資料
-  - 
+
   - 生徒指導について
     - 
     - [自殺予防](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302907.htm)
