@@ -12,6 +12,8 @@ permalink: /shiryo/
   - 生徒指導について  
 <br />
     - [自殺予防](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302907.htm)  
+
+      - [子供の自殺が起きたときの緊急対応の手引き（PDF:1005KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2018/08/13/1408018_001.pdf) 
     
       - [子供の自殺が起きたときの背景調査の指針【改訂版】（概要）（PDF:461KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2018/08/16/1408019_001.pdf)
       - [子供の自殺が起きたときの背景調査の指針【改訂版】（PDF:473KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2018/08/16/1408019_002.pdf)  
