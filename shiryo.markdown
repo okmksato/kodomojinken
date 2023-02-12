@@ -32,9 +32,17 @@ permalink: /shiryo/
 
       - [いじめの重大事態の調査に関するガイドライン（概要）（PDF:467KB）](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2019/06/26/1400030_008_1_1.pdf)  
       - [いじめの重大事態の調査に関するガイドライン（平成29年3月）（PDF:275KB）](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2019/06/26/1400030_009.pdf)  
-<br />
-   - [不登校](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302905.htm)  
 
+      - [不登校重大事態に係る調査の指針（概要）（PDF:107KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2016/03/22/1368460_2.pdf)  
+      - [不登校重大事態に係る調査の指針  （PDF:196KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2016/07/14/1368460_1.pdf)  
+<br />
+     - [不登校](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302905.htm)  
+
+       - [義務教育の段階における普通教育に相当する教育の機会の確保等に関する法律](https://elaws.e-gov.go.jp/document?lawid=428AC1000000105_20220622_504AC1000000077)  
+       - [義務教育の段階における普通教育に相当する教育の機会の確保等に関する基本指針（平成29年3月31日文部科学大臣決定）（PDF:156KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2017/04/17/1384371_1.pdf)  
+
+       - [不登校重大事態に係る調査の指針について（通知）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1368460.htm)  
+<br />
 
 <br />
 - 泉南市資料
