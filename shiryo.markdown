@@ -43,8 +43,6 @@ permalink: /shiryo/
 
        - [不登校重大事態に係る調査の指針について（通知）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1368460.htm)  
 <br />
-
-<br />
 - 泉南市資料
 
 	- [市立中学校在籍生徒の自死事案について](https://www.city.sennan.lg.jp/kurashi/kyoiku/1659658615891.html)  
