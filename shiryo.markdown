@@ -56,7 +56,8 @@ permalink: /shiryo/
 [泉南市立中学校の生徒のいじめ自死に対する泉南市教育委員会と泉南市の対応 2023.2.10時点でのまとめ PDF版(7.9MB)](/assets/docs/readygoreport.pdf)
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">泉南市立中学校の生徒のいじめ自死に対する<br>泉南市教育委員会と泉南市の対応<br><br>2023.2.10時点でのまとめを上げておきます。<br>12月議会は会議録が出てないので、このまとめに含まれていません。<a href="https://twitter.com/hashtag/%E6%B3%89%E5%8D%97%E5%B8%82?src=hash&amp;ref_src=twsrc%5Etfw">#泉南市</a> <a href="https://t.co/hazMBXdwOz">pic.twitter.com/hazMBXdwOz</a></p>&mdash; 古谷悦子（れでぃごの中の人） (@readygosennan) <a href="https://twitter.com/readygosennan/status/1623871164660711424?ref_src=twsrc%5Etfw">February 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<br />
+- [泉南市立中学校の生徒のいじめ自死に対する泉南市教育委員会と泉南市の対応 2023.2.10時点でのまとめの出典資料一覧](/futoukou/2023/02/12/readygo-shiryo.html)  
 <br />
 - YouTube
 
