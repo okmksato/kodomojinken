@@ -10,12 +10,13 @@ permalink: /shiryo/
 - 文部科学省資料
 
   - 生徒指導について  
-<br />
-    - [自殺予防](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302907.htm)  
 
-      - [子供の自殺が起きたときの緊急対応の手引き（PDF:1005KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2018/08/13/1408018_001.pdf) 
-    
+    - [自殺予防](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302907.htm)  
+<br />
+      - [子供の自殺が起きたときの緊急対応の手引き（PDF:1005KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2018/08/13/1408018_001.pdf)   
+<br />    
       - [子供の自殺が起きたときの背景調査の指針【改訂版】（概要）（PDF:461KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2018/08/16/1408019_001.pdf)
+
       - [子供の自殺が起きたときの背景調査の指針【改訂版】（PDF:473KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2018/08/16/1408019_002.pdf)  
 <br />
       - [自殺対策基本法](https://elaws.e-gov.go.jp/document?lawid=418AC0100000085_20160401_428AC0000000011)  
@@ -23,25 +24,39 @@ permalink: /shiryo/
     - [いじめの問題に対する施策](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302904.htm)  
 
       - [いじめ防止対策推進法（平成25年9月28日）概要（PDF:136KB）](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2018/08/21/1400030_001_1_1.pdf)  
+
       - [いじめ防止対策推進法（平成25年9月28日）](https://elaws.e-gov.go.jp/document?lawid=425AC1000000071_20221001_503AC0000000027)  
 <br />
       - [平成29年3月16日「いじめの防止等のための基本的な方針」の改定及び「いじめの重大事態の調査に関するガイドライン」の策定について（通知）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1400142.htm)  
-
+<br />
       - [いじめの防止等のための基本的な方針（PDF:1271KB）](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2019/06/26/1400030_007.pdf)  
+
       - [いじめの防止等のための基本的な方針の改定について（PDF:430KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2018/07/23/1400142_002.pdf)  
-
+<br />
       - [いじめの重大事態の調査に関するガイドライン（概要）（PDF:467KB）](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2019/06/26/1400030_008_1_1.pdf)  
-      - [いじめの重大事態の調査に関するガイドライン（平成29年3月）（PDF:275KB）](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2019/06/26/1400030_009.pdf)  
 
+      - [いじめの重大事態の調査に関するガイドライン（平成29年3月）（PDF:275KB）](https://www.mext.go.jp/component/a_menu/education/detail/__icsFiles/afieldfile/2019/06/26/1400030_009.pdf)  
+<br />
       - [不登校重大事態に係る調査の指針（概要）（PDF:107KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2016/03/22/1368460_2.pdf)  
+
       - [不登校重大事態に係る調査の指針  （PDF:196KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2016/07/14/1368460_1.pdf)  
 <br />
      - [不登校](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302905.htm)  
-
        - [義務教育の段階における普通教育に相当する教育の機会の確保等に関する法律](https://elaws.e-gov.go.jp/document?lawid=428AC1000000105_20220622_504AC1000000077)  
-       - [義務教育の段階における普通教育に相当する教育の機会の確保等に関する基本指針（平成29年3月31日文部科学大臣決定）（PDF:156KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2017/04/17/1384371_1.pdf)  
 
+       - [義務教育の段階における普通教育に相当する教育の機会の確保等に関する基本指針（平成29年3月31日文部科学大臣決定）（PDF:156KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2017/04/17/1384371_1.pdf)  
+<br />
        - [不登校重大事態に係る調査の指針について（通知）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1368460.htm)  
+<br />
+  - [学校選択制等について](https://www.mext.go.jp/a_menu/shotou/gakko-sentaku/index.htm)  
+<br />
+    - [学校教育法施行規則の一部を改正する省令等及び学校教育法施行令第8条に基づく就学校の変更の取扱いについて（通知）（抄）（平成18年3月30日）](https://www.mext.go.jp/a_menu/shotou/gakko-sentaku/06041014/008/010.htm)  
+
+    - [学校教育法施行令第8条に基づく就学校の変更の取扱いについて（事務連絡）（平成18年6月26日）](https://www.mext.go.jp/a_menu/shotou/gakko-sentaku/06071212.htm)  
+
+    - [学校教育法施行令第8条に基づく就学に関する事務の適正化等について（通知）（平成19年3月30日）](https://www.mext.go.jp/a_menu/shotou/gakko-sentaku/08032405.htm)  
+
+    - [学校教育法施行令第8条に基づく就学に関する事務の適正化等について（通知）（平成20年3月31日）](https://www.mext.go.jp/a_menu/shotou/gakko-sentaku/08042801.htm)  
 <br />
 - 泉南市資料
 
