@@ -20,7 +20,9 @@ og-image:
 
 ## 索引
 
-- <a href="#a">【A】第10次泉南市子どもの権利条例委員会報告</a>  
+- <a href="#a">【A】第10次泉南市子どもの権利条例委員会報告<br />
+令和4年8月30日付け泉南秘第144-2号泉南市情報公開決定通知書で公開<br />
+第10次泉南市子どもの権利条例委員会報告（泉南市HPで公開）</a>  
 
 - <a href="#b">【B】令和4年7月21日に行われた議員全員協議会で泉南市教育委員会が説明に用いた資料<br />
 令和4年8月10日付け泉南総情第21号泉南市情報公開決定通知書（B1）<br />
@@ -78,9 +80,16 @@ og-image:
 
 
 ### A
-[第10次泉南市子どもの権利条例委員会報告](https://www.city.sennan.lg.jp/shisei/jinken/kodomo_kenri/1618195154945.html#a4)  
+第10次泉南市子どもの権利条例委員会報告  
+令和4年8月30日付け泉南秘第144-2号泉南市情報公開決定通知書で公開  
 
-[![B](/assets/images/readygo-A.jpg)](https://www.city.sennan.lg.jp/shisei/jinken/kodomo_kenri/1618195154945.html#a4)  
+![A-1](/assets/images/readygo-A-1.jpg)  
+
+[[twitter 引用元]](https://twitter.com/readygosennan/status/1625033500784201728)  
+<br />
+#### [第10次泉南市子どもの権利条例委員会報告（泉南市HP）](https://www.city.sennan.lg.jp/shisei/jinken/kodomo_kenri/1618195154945.html#a4)  
+
+[![A-2](/assets/images/readygo-A.jpg)](https://www.city.sennan.lg.jp/shisei/jinken/kodomo_kenri/1618195154945.html#a4)  
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1624758649250873355)  
 
@@ -91,9 +100,17 @@ og-image:
 令和4年8月10日付け泉南総情第21号泉南市情報公開決定通知書（B1）  
 令和4年8月22日付け泉南議第189号泉南市情報公開決定通知書（B2）で公開  
 
-![B](/assets/images/readygo-B.jpg)  
+**B1**  
 
-[[twitter 引用元]](https://twitter.com/readygosennan/status/1624759229927264261)  
+![B1](/assets/images/readygo-B.jpg)  
+
+[[twitter 引用元]](https://twitter.com/readygosennan/status/1625035146855587840)  
+
+**B2**
+
+![B2](/assets/images/readygo-B-2.jpg)  
+
+[[twitter 引用元]](https://twitter.com/readygosennan/status/1625038795426115585)  
 
 <h4 style="text-align:center;"><a href="#索引">⬆索引</a></h4>   
 
