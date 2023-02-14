@@ -112,6 +112,8 @@ og-image:
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1625038795426115585)  
 
+### [B2公開資料内容](/futoukou/2023/02/14/readygo-shiryo189.html)  
+
 <h4 style="text-align:center;"><a href="#索引">⬆索引</a></h4>   
 
 ### C
