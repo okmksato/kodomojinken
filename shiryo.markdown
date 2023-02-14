@@ -42,11 +42,16 @@ permalink: /shiryo/
       - [不登校重大事態に係る調査の指針  （PDF:196KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2016/07/14/1368460_1.pdf)  
 <br />
      - [不登校](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302905.htm)  
+<br />
        - [義務教育の段階における普通教育に相当する教育の機会の確保等に関する法律](https://elaws.e-gov.go.jp/document?lawid=428AC1000000105_20220622_504AC1000000077)  
 
        - [義務教育の段階における普通教育に相当する教育の機会の確保等に関する基本指針（平成29年3月31日文部科学大臣決定）（PDF:156KB）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/__icsFiles/afieldfile/2017/04/17/1384371_1.pdf)  
 <br />
        - [不登校重大事態に係る調査の指針について（通知）](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1368460.htm)  
+<br />
+       - [不登校児童生徒への支援について](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1397802.htm)  
+
+         - [「不登校児童生徒への支援の在り方について（通知）」令和元年10月25日](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1422155.htm)  
 <br />
   - [学校選択制等について](https://www.mext.go.jp/a_menu/shotou/gakko-sentaku/index.htm)  
 <br />
@@ -65,14 +70,18 @@ permalink: /shiryo/
 	- [子どもの権利条例委員会](https://www.city.sennan.lg.jp/shisei/jinken/kodomo_kenri/1618195154945.html)  
 
 		- [第10次 子どもの権利条例委員会報告 本文 PDF （山本市長が一旦受取を拒否した後、2032(R4)年8月2日に受け取った報告書の本文）](https://www.city.sennan.lg.jp/ikkrwebBrowse/material/files/group/37/10jihoukoku2.pdf)  
+
 <br />
 - 古谷悦子（れでぃごの中の人）さん [@readygosennan](https://twitter.com/readygosennan) 作成資料  
 
-[泉南市立中学校の生徒のいじめ自死に対する泉南市教育委員会と泉南市の対応 2023.2.10時点でのまとめ PDF版(7.9MB)](/assets/docs/readygoreport.pdf)
+  - [泉南市立中学校の生徒のいじめ自死に対する泉南市教育委員会と泉南市の対応 2023.2.10時点でのまとめ PDF版(7.9MB)](/assets/docs/readygoreport.pdf)
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">泉南市立中学校の生徒のいじめ自死に対する<br>泉南市教育委員会と泉南市の対応<br><br>2023.2.10時点でのまとめを上げておきます。<br>12月議会は会議録が出てないので、このまとめに含まれていません。<a href="https://twitter.com/hashtag/%E6%B3%89%E5%8D%97%E5%B8%82?src=hash&amp;ref_src=twsrc%5Etfw">#泉南市</a> <a href="https://t.co/hazMBXdwOz">pic.twitter.com/hazMBXdwOz</a></p>&mdash; 古谷悦子（れでぃごの中の人） (@readygosennan) <a href="https://twitter.com/readygosennan/status/1623871164660711424?ref_src=twsrc%5Etfw">February 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  - [泉南市立中学校の生徒のいじめ自死に対する泉南市教育委員会と泉南市の対応 2023.2.10時点でのまとめの出典資料一覧](/futoukou/2023/02/12/readygo-shiryo.html)  
+
+  - [泉南議第189号泉南市情報公開決定通知書公開資料『議員全員協議会で使用した資料』](http://127.0.0.1:4000/futoukou/2023/02/14/readygo-shiryo189.html)  
 <br />
-- [泉南市立中学校の生徒のいじめ自死に対する泉南市教育委員会と泉南市の対応 2023.2.10時点でのまとめの出典資料一覧](/futoukou/2023/02/12/readygo-shiryo.html)  
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">泉南市立中学校の生徒のいじめ自死に対する<br>泉南市教育委員会と泉南市の対応<br><br>2023.2.10時点でのまとめを上げておきます。<br>12月議会は会議録が出てないので、このまとめに含まれていません。<a href="https://twitter.com/hashtag/%E6%B3%89%E5%8D%97%E5%B8%82?src=hash&amp;ref_src=twsrc%5Etfw">#泉南市</a> <a href="https://t.co/hazMBXdwOz">pic.twitter.com/hazMBXdwOz</a></p>&mdash; 古谷悦子（れでぃごの中の人） (@readygosennan) <a href="https://twitter.com/readygosennan/status/1623871164660711424?ref_src=twsrc%5Etfw">February 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br />
 - YouTube
 

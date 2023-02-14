@@ -13,55 +13,55 @@ og-image:
 泉南議第189号泉南市情報公開決定通知書で公開された  
 令和4年7月21日に開催された議員全員協議会で使用した資料  
 
-![A-1](/assets/images/readygo-shiryo189-00.jpg)  
+![P0](/assets/images/readygo-shiryo189-00.jpg)  
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1625038657790029824)  
 
 <br />
 
-![A-1](/assets/images/readygo-shiryo189-01.jpg)  
+![P1](/assets/images/readygo-shiryo189-01.jpg)  
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1625038661116108800)  
 
 <br />
 
-![A-1](/assets/images/readygo-shiryo189-02.jpg)  
+![P2](/assets/images/readygo-shiryo189-02.jpg)  
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1625038665209774081)  
 
 <br />
 
-![A-1](/assets/images/readygo-shiryo189-03.jpg)  
+![P3](/assets/images/readygo-shiryo189-03.jpg)  
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1625038668653277185)  
 
 <br />
 
-![A-1](/assets/images/readygo-shiryo189-04.jpg)  
+![P4](/assets/images/readygo-shiryo189-04.jpg)  
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1625038672151322624)  
 
 <br />
 
-![A-1](/assets/images/readygo-shiryo189-05.jpg)  
+![P5](/assets/images/readygo-shiryo189-05.jpg)  
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1625038675288653824)  
 
 <br />
 
-![A-1](/assets/images/readygo-shiryo189-06.jpg)  
+![P6](/assets/images/readygo-shiryo189-06.jpg)  
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1625038678858010627)  
 
 <br />
 
-![A-1](/assets/images/readygo-shiryo189-07.jpg)  
+![P7](/assets/images/readygo-shiryo189-07.jpg)  
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1625038682804854785)  
 
 <br />
 
-![A-1](/assets/images/readygo-shiryo189-08.jpg)  
+![P8](/assets/images/readygo-shiryo189-08.jpg)  
 
 [[twitter 引用元]](https://twitter.com/readygosennan/status/1625038686051262464)
 
