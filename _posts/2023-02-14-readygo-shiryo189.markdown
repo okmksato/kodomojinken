@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "泉南議第189号泉南市情報公開決定通知書公開資料"
+title: "泉南議第189号泉南市情報公開決定通知書公開資料『議員全員協議会で使用した資料』"
 date: 2023-02-14 12:00:00 +0900
 categories: futoukou
 twitter-card:
