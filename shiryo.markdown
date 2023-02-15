@@ -65,11 +65,17 @@ permalink: /shiryo/
 <br />
 - 泉南市資料
 
-	- [市立中学校在籍生徒の自死事案について](https://www.city.sennan.lg.jp/kurashi/kyoiku/1659658615891.html)  
+  - [泉南市議会会議録検索システム](http://www.db-search.com/sennan-c/index.php/)    
 
-	- [子どもの権利条例委員会](https://www.city.sennan.lg.jp/shisei/jinken/kodomo_kenri/1618195154945.html)  
+  - [泉南市議会録画映像YouTube](http://gikai.city.sennan.osaka.jp/category/publicrelation/publicrelation2)    
 
-		- [第10次 子どもの権利条例委員会報告 本文 PDF （山本市長が一旦受取を拒否した後、2032(R4)年8月2日に受け取った報告書の本文）](https://www.city.sennan.lg.jp/ikkrwebBrowse/material/files/group/37/10jihoukoku2.pdf)  
+  - [泉南市教育委員会会議会議録](https://www.city.sennan.lg.jp/kurashi/kyoiku/iinkai/1597370191954.html)    
+
+  - [市立中学校在籍生徒の自死事案について](https://www.city.sennan.lg.jp/kurashi/kyoiku/1659658615891.html)  
+
+  - [子どもの権利条例委員会](https://www.city.sennan.lg.jp/shisei/jinken/kodomo_kenri/1618195154945.html)  
+
+    - [第10次 子どもの権利条例委員会報告 本文 PDF （山本市長が一旦受取を拒否した後、2032(R4)年8月2日に受け取った報告書の本文）](https://www.city.sennan.lg.jp/ikkrwebBrowse/material/files/group/37/10jihoukoku2.pdf)  
 
 <br />
 - 古谷悦子（れでぃごの中の人）さん [@readygosennan](https://twitter.com/readygosennan) 作成資料  
