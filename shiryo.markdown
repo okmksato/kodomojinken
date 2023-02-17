@@ -54,7 +54,7 @@ permalink: /shiryo/
          - [「不登校児童生徒への支援の在り方について（通知）」令和元年10月25日](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1422155.htm)  
 <br />
   - [学校選択制等について](https://www.mext.go.jp/a_menu/shotou/gakko-sentaku/index.htm)  
-<br />
+
     - [学校教育法施行規則の一部を改正する省令等及び学校教育法施行令第8条に基づく就学校の変更の取扱いについて（通知）（抄）（平成18年3月30日）](https://www.mext.go.jp/a_menu/shotou/gakko-sentaku/06041014/008/010.htm)  
 
     - [学校教育法施行令第8条に基づく就学校の変更の取扱いについて（事務連絡）（平成18年6月26日）](https://www.mext.go.jp/a_menu/shotou/gakko-sentaku/06071212.htm)  
@@ -65,17 +65,25 @@ permalink: /shiryo/
 <br />
 - 泉南市資料
 
-  - [泉南市議会会議録検索システム](http://www.db-search.com/sennan-c/index.php/)    
+  - [泉南市例規類集](https://www.city.sennan.lg.jp/shisei/plan/1611796557166.html)  
 
-  - [泉南市議会録画映像YouTube](http://gikai.city.sennan.osaka.jp/category/publicrelation/publicrelation2)    
+    - [泉南市いじめ問題対策連絡協議会等条例](https://en3-jg.d1-law.com/sennan/d1w_reiki/H431901010002/H431901010002.html)  
+<br />
+  - [泉南市いじめ防止基本方針](https://www.city.sennan.lg.jp/kurashi/kyoiku/sennanshi_kyouiku/hoshin/1671097673846.html)
 
-  - [泉南市教育委員会会議会議録](https://www.city.sennan.lg.jp/kurashi/kyoiku/iinkai/1597370191954.html)    
+    - [泉南市いじめ防止基本方針（令和4年12月改訂）（PDF：615.7KB）](https://www.city.sennan.lg.jp/ikkrwebBrowse/material/files/group/36/ijimebousikihonnhousinR4.12.pdf)  
+<br />
+  - [泉南市議会会議録検索システム](http://www.db-search.com/sennan-c/index.php/)  
+
+  - [泉南市議会録画映像YouTube](http://gikai.city.sennan.osaka.jp/category/publicrelation/publicrelation2)  
+
+  - [泉南市教育委員会会議会議録](https://www.city.sennan.lg.jp/kurashi/kyoiku/iinkai/1597370191954.html)  
 
   - [市立中学校在籍生徒の自死事案について](https://www.city.sennan.lg.jp/kurashi/kyoiku/1659658615891.html)  
 
   - [子どもの権利条例委員会](https://www.city.sennan.lg.jp/shisei/jinken/kodomo_kenri/1618195154945.html)  
 
-    - [第10次 子どもの権利条例委員会報告 本文 PDF （山本市長が一旦受取を拒否した後、2032(R4)年8月2日に受け取った報告書の本文）](https://www.city.sennan.lg.jp/ikkrwebBrowse/material/files/group/37/10jihoukoku2.pdf)  
+  - [第10次 子どもの権利条例委員会報告 本文 PDF （山本市長が一旦受取を拒否した後、2032(R4)年8月2日に受け取った報告書の本文）](https://www.city.sennan.lg.jp/ikkrwebBrowse/material/files/group/37/10jihoukoku2.pdf)  
 
 <br />
 - 古谷悦子（れでぃごの中の人）さん [@readygosennan](https://twitter.com/readygosennan) 作成資料  
