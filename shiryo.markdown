@@ -73,6 +73,12 @@ permalink: /shiryo/
 
     - [泉南市いじめ防止基本方針（令和4年12月改訂）（PDF：615.7KB）](https://www.city.sennan.lg.jp/ikkrwebBrowse/material/files/group/36/ijimebousikihonnhousinR4.12.pdf)  
 <br />
+  - [大阪府 わたしのまちの自殺対策ホームページ一覧](https://www.pref.osaka.lg.jp/kokoronokenko/soudankikan/i_jisatsu_hp.html)
+
+    - [泉南市相談窓口 こころの健康](http://www.city.sennan.lg.jp/kurashi/kenko/kenko/1586930352373.html)  
+
+    - [泉南市自殺対策計画（PDFファイル／1.91MB）](https://www.pref.osaka.lg.jp/attach/13990/00105618/39_sennanshi_jisatsutaisakukeikaku.pdf)  
+<br />
   - [泉南市議会会議録検索システム](http://www.db-search.com/sennan-c/index.php/)  
 
   - [泉南市議会録画映像YouTube](http://gikai.city.sennan.osaka.jp/category/publicrelation/publicrelation2)  
