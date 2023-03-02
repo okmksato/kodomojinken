@@ -69,9 +69,11 @@ permalink: /shiryo/
 
     - [泉南市いじめ問題対策連絡協議会等条例](https://en3-jg.d1-law.com/sennan/d1w_reiki/H431901010002/H431901010002.html)  
 <br />
-  - [泉南市いじめ防止基本方針](https://www.city.sennan.lg.jp/kurashi/kyoiku/sennanshi_kyouiku/hoshin/1671097673846.html)
+  - [~~泉南市いじめ防止基本方針~~（2023-03-01 リンク切れ確認）](https://www.city.sennan.lg.jp/kurashi/kyoiku/sennanshi_kyouiku/hoshin/1671097673846.html)<br />
+[泉南市いじめ防止基本方針（Wayback アーカイブ）](https://web.archive.org/web/20221220084506/https://www.city.sennan.lg.jp/kurashi/kyoiku/sennanshi_kyouiku/hoshin/1671097673846.html)
 
-    - [泉南市いじめ防止基本方針（令和4年12月改訂）（PDF：615.7KB）](https://www.city.sennan.lg.jp/ikkrwebBrowse/material/files/group/36/ijimebousikihonnhousinR4.12.pdf)  
+    - [~~泉南市いじめ防止基本方針（令和4年12月改訂）（PDF：615.7KB）~~（2023-03-01 リンク切れ確認）](https://www.city.sennan.lg.jp/ikkrwebBrowse/material/files/group/36/ijimebousikihonnhousinR4.12.pdf)<br />
+[泉南市いじめ防止基本方針（令和4年12月改訂）（PDF：615.7KB）（Wayback アーカイブ）](https://web.archive.org/web/20221220084506/https://www.city.sennan.lg.jp/ikkrwebBrowse/material/files/group/36/ijimebousikihonnhousinR4.12.pdf)  
 <br />
   - [大阪府 わたしのまちの自殺対策ホームページ一覧](https://www.pref.osaka.lg.jp/kokoronokenko/soudankikan/i_jisatsu_hp.html)
 
